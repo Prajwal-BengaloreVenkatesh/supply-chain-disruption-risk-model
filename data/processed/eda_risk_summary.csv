@@ -1,0 +1,37 @@
+dimension,category,orders,late_rate_pct
+shipping_mode,First Class,9602,100.0
+shipping_mode,Second Class,12256,79.9853133159269
+shipping_mode,Same Day,3407,48.371000880540066
+shipping_mode,Standard Class,37632,39.846407312925166
+scheduled_shipping_days,1,9602,100.0
+scheduled_shipping_days,2,12256,79.9853133159269
+scheduled_shipping_days,0,3407,48.371000880540066
+scheduled_shipping_days,4,37632,39.846407312925166
+market,Pacific Asia,16853,57.67519136058862
+market,USCA,8178,57.52017608217168
+market,Europe,17763,57.417102966841185
+market,LATAM,16414,56.896551724137936
+market,Africa,3689,56.54648956356736
+destination_region,Central Africa,533,60.0375234521576
+destination_region,East Africa,589,59.08319185059423
+destination_region,South of  USA ,1280,58.828125
+destination_region,West Asia,1935,58.50129198966408
+destination_region,Western Europe,9563,58.4021750496706
+destination_region,Eastern Europe,1246,58.02568218298555
+destination_region,Southeast Asia,4173,58.01581595974119
+destination_region,South Asia,3219,57.93724759242001
+destination_region,US Center ,1852,57.829373650107996
+destination_region,East of USA,2219,57.503379900856245
+destination_region,Eastern Asia,3171,57.33207190160833
+destination_region,Central America,9001,57.28252416398178
+destination_region,West of USA ,2536,57.216088328075706
+destination_region,North Africa,1013,57.058242843040475
+destination_region,Oceania,4175,57.05389221556886
+destination_region,South America,4738,56.90164626424652
+destination_region,Central Asia,180,56.666666666666664
+destination_region,Southern Africa,380,56.315789473684205
+destination_region,Northern Europe,3564,56.00448933782267
+destination_region,Southern Europe,3390,55.899705014749266
+destination_region,Caribbean,2675,55.58878504672897
+destination_region,West Africa,1174,53.32197614991482
+destination_region,Canada,291,52.57731958762887

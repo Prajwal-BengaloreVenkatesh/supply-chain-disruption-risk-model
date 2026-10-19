@@ -1,0 +1,3 @@
+policy,threshold,orders_flagged,flagged_order_value,historical_late_order_value_flagged,order_value_from_false_alerts,missed_late_order_value,estimated_cost_on_flagged_risk_exposure,hypothetical_cost_avoided,estimated_cost_remaining_on_flagged_exposure,missed_late_order_cost_proxy
+broad_040,0.4,10714,3997721.580942706,2491886.533761586,1505835.04718112,397765.703357991,127336.22367259492,31834.055918148733,95502.1677544462,19888.28516789955
+focused_055,0.55,4570,1777944.7804351265,1582012.539280421,195932.241154705,1307639.697839156,78936.48815336124,19734.12203834031,59202.36611502092,65381.98489195781
